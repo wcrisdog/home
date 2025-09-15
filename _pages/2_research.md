@@ -34,8 +34,13 @@ permalink: /research/
   - Lead a team to collect data from county annuals and clean the data with Python and STATA  
 
 ## Individual Research
+**Learning to be Outside: How Setting Up Girls’ Schools in Late Qing and Minguo Affects Gender Norms and Labor Supply**  
   (Instructed by [Dan Li](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14142))  
-  Manuscript: [Learning to be Outside: How Setting Up Girls’ Schools in Late Qing and Minguo Affects Gender Norms and Labor Supply](/home/files/papers/Learning_to_be_out.pdf/)  
+  Manuscript: [Learning to be Outside](/home/files/papers/Learning_to_be_out.pdf/)  
+
+**Individual Differences in Early Self-Regulatory Mechanisms: Bayesian Regularized Latent Class Analysis of Preschoolers' Learning Trajectories**  
+  (Instructed by [Nancy Tsai](https://www.nancytsaiphd.com/))  
+  Manuscript: [Individual Differences in Early Self-Regulatory Mechanisms](/home/files/papers/Education.pdf/)
 
  
  
