@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maximilian Kasy"
+title                    : "Vincent(Chengrui) Wang"
 title_separator          : "-"
-name                     : "Maximilian Kasy"
+name                     : "Vincent(Chengrui) Wang"
 description:	  > # this means to ignore newlines until "baseurl:"
-  Research on machine learning, experimental design, economic inequality, and optimal policy
+  Interested in reinforcement learning, microeconometrics, social network, causal inference and optimal policy
 url                      : "localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maximilian Kasy"
-  avatar           : "/files/profilepic.jpg"
-  bio              : "Professor of Economics, University of Oxford"
-  location         : "Oxford, UK"
-  email            : "maximilian.kasy@economics.ox.ac.uk"
+  name             : "Vincent(Chengrui) Wang"
+  avatar           : "/files/profilepic.jpeg"
+  bio              : "Undergraduate student, Fudan University"
+  location         : "Shanghai, China"
+  email            : "vincentwcr041219@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -126,8 +126,8 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : maxkasy
-  mastodon         : maxkasy@mastodon.social
+  twitter          : 
+  mastodon         : 
   vine             :
   weibo            :
   xing             :
