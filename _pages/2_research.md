@@ -28,14 +28,14 @@ permalink: /research/
 
 **School Merging, Student Behavior and Social Norms: Experiments from Junior High School Students**  
   (Instructed by [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
-  Literature Review: [Gender Bias](/home/An_Overview_of_Economic_Studies_on_Gender_Bias/)  
+  Literature Review: [Gender Bias](/home/files/papers/An_Overview_of_Economic_Studies_on_Gender_Bias.pdf/)  
   Key Responsibilities:  
   - Complete a literature review around gender bias  
   - Lead a team to collect data from county annuals and clean the data with Python and STATA  
 
 ## Individual Research
   (Instructed by [Dan Li](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14142))  
-  Manuscript: [Learning to be Outside: How Setting Up Girls’ Schools in Late Qing and Minguo Affects Gender Norms and Labor Supply](/home/Learning_to_be_out/)  
+  Manuscript: [Learning to be Outside: How Setting Up Girls’ Schools in Late Qing and Minguo Affects Gender Norms and Labor Supply](/home/files/papers/Learning_to_be_out.pdf/)  
 
  
  
