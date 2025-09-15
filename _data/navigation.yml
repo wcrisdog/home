@@ -2,14 +2,12 @@
 main:
   - title: Research
     url: /research/
-  # - title: Teaching
-  #   url: /teaching/
-  # - title: Presentations
-  #   url: /presentations/
-  # - title: Code and Apps
-  #   url: /code-and-apps/	
-  # - title: Commentary
-  #   url: /commentary/
+  - title: Teaching
+    url: /teaching/
+  - title: Experiences
+    url: /experiences/
+  - title: Awards
+    url: /awards/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
