@@ -1,6 +1,6 @@
 ---
-title: Code and apps
-permalink: /code-and-apps/
+title: Awards
+permalink: /awards/
 ---
 
 
