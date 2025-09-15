@@ -1,6 +1,6 @@
 ---
-title: Presentations
-permalink: /presentations/
+title: Experiences
+permalink: /experiences/
 ---
 
 **Book talk: The Means of Prediction: How AI Really Works (And Who Benefits)**  
