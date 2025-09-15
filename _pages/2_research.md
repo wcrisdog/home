@@ -3,202 +3,39 @@ title: Research
 permalink: /research/
 ---
 
+## Conference
 
-<figure style="width: 30%" class="align-right">
-  <img src="/home/files/other/meansofprediction_cover.jpg">
-</figure>
+**DIRT: The Distributed Intelligent Replicator Toolkit**  
+  (Instructed by Aaron Walsman, postdoc at Kempner Institute, Harvard University)  
+  *Accepted into Late Breaking Abstract of Artificial Life*  
+  Manuscript: [DIRT.pdf](/home/files/papers/DIRT.pdf)    
+  Longer version: [DIRT_full.pdf](/home/files/papers/DIRT_longer.pdf)  
+  Code: [https://github.com/aaronwalsman/dirt](https://github.com/aaronwalsman/dirt)  
 
+## Selected Research Assistantship
 
-**The Means of Prediction: How AI Really Works (and Who Benefits)**  
-  Book  
-  *University of Chicago Press, October 2025*  
-  Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)
+**The Incidence of Distortions**  
+  (Instructed by [David Atkin](http://www.davidatk.in/))  
+  Key Responsibilities:  
+  - Perform statistical matching between the cleaned Chile’s national survey data and government’s administrative tax data to incorporate the informal production and consumption of the economy  
+  - Ensure the matching quality by comparing the distribution of key variables over demographics so as to guarantee the accuracy of estimates of wedges  
 
+**Emigration during Turbulent Times**  
+  (Instructed by [David Young](http://davidyyang.com/))  
+  Key Responsibilities:  
+  - Retrieve information of land value from the official website of Shanghai Municipal Archives  
+  - Use OCR to extract values from the screenshots of the Land Assessment Schedule and clean the raw data into structured format, facilitating the analysis of land price’s impact on emigration  
 
+**School Merging, Student Behavior and Social Norms: Experiments from Junior High School Students**  
+  (Instructed by [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
+  Literature Review: [Gender Bias](/home/An_Overview_of_Economic_Studies_on_Gender_Bias/)  
+  Key Responsibilities:  
+  - Complete a literature review around gender bias  
+  - Lead a team to collect data from county annuals and clean the data with Python and STATA  
 
-## Working papers
-
-**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
-  (joint with Lukas Lehner)  
-  *Revise and resubmit, AEJ:Policy, 2025*  
-  Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
-  Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
-  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
-  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
-  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
-
-**Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
-  (joint with Jann Spiess)  
-  *Working paper, 2024*  
-  Manuscript: [optimal_preanalysis_plans.pdf](/home/files/papers/optimal_preanalysis_plans.pdf)  
-  Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
-  Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
-
-**Experimental evaluation of a Basic Income Pilot in Germany**  
-  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  Project website: [Basic income pilot study](/home/basic_income_pilot/)  
-  Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
-  Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
-
-**Evidence aggregation and meta-analysis: A toolkit for economists**  
-  (joint with Peter Ganong and Avik Garg)  
-  *Requested for Journal of Economic Literature*  
-
-**The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
-  (joint with Karun Adusumilli and Ashia Wilson)  
-  *Working paper coming soon*  
-
-
-## Publications
-
-**Adaptive maximization of social welfare**  
-  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Econometrica, 2025*  
-  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
-
-**The political economy of AI: Towards democratic control of the means of prediction**  
-  *Handbook on Algorithmic Governance and the Law, 2025*  
-  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
-
-**Algorithmic bias and racial inequality: A critical review**  
-  *OxREP special issue on Race and Economics, 2024*  
-  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
-
-**An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
-  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Journal of the European Economic Association, 2024*  
-  Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
-  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
-  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
-
-**Matching with semi-bandits**  
-  (joint with Alex Teytelboym)  
-  *Econometrics Journal, 2023*  
-  Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
-  Replication code: [Github](https://github.com/maxkasy/EJ_matching_with_semibandits_replication_files)  
-
-**Which findings should be published**  
-  (joint with Alex Frankel)  
-  *American Economic Journal: Microeconomics, 2022*  
-  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
-  Online appendix: [findings_supplement.pdf](/home/files/papers/findings_supplement.pdf)  
-
-**Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
-  *Journal of Econometrics, 2022*  
-  Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
-  
-**Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
-  *Journal of Economic Perspectives, 2021*  
-  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
-    
-**Fairness, equality, and power in algorithmic decision making**  
-  (joint with Rediet Abebe)  
-  *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, 2021*  
-  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
-
-**Adaptive treatment assignment in experiments for policy choice**  
-  (joint with Anja Sautmann)  
-  *Econometrica, 2021*  
-  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
-  Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
-  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
-  Correction regarding Theorem 1, Item 3: [correction_adaptiveexperimentspolicy.pdf](/home/files/papers/correction_adaptiveexperimentspolicy.pdf)  
-
-**Adaptive Targeted Infectious Disease Testing**  
-  (joint with Alex Teytelboym)  
-  *Oxford Review of Economic Policy, 2020*  
-  Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
-
-**Approximate cross-validation: Guarantees for model assessment and selection**  
-  (joint with Ashia Wilson and Lester Mackey)  
-  *Artificial Intelligence and Statistics, 2020*  
-  Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)  
-
-**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
-  *Economics For Inclusive Prosperity, 2019*  
-  Manuscript: [No-Data-in-the-Void.pdf](/home/files/papers/No-Data-in-the-Void.pdf)  
-
-**Identification of and correction for publication bias**  
-  (joint with Isaiah Andrews)  
-  *American Economic Review, 2019*  
-  Manuscript: [publicationbias.pdf](/home/files/papers/PublicationBias.pdf)  
-  
-**Choosing among regularized estimators in empirical economics - the risk of machine learning**  
-  (joint with Alberto Abadie)  
-  *Review of Economics and Statistics, 2019*  
-  Manuscript: [riskml.pdf](/home/files/papers/riskml.pdf)  
-  
-**How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
-  (joint with Pirmin Fessler)  
-  *Review of Economics and Statistics, 2019*  
-  Manuscript: [shrinkingtotheory.pdf](/home/files/papers/shrinkingtotheory.pdf)  
-  Supplement: [shrinkingtotheorysupplement.pdf](/home/files/papers/shrinkingtotheorysupplement.pdf)  
-  Code and data for replication: [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7BAYF)  
-  
-**Uniformity and the delta method**  
-  *Journal of Econometric Methods, 2019*   
-  Manuscript: [uniformitynote.pdf](/home/files/papers/uniformitynote.pdf)  
-
-**Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
-  *Journal of Public Economics, 2018*  
-  Manuscript: [PolicyDecisions.pdf](/home/files/papers/PolicyDecisions.pdf)    
-  
-**Survey mode effects on income inequality measurement**  
-  (joint with Pirmin Fessler and Peter Lindner)  
-  *Journal of Economic Inequality, 2018*  
-  Manuscript: [surveymodeinequality.pdf](/home/files/papers/surveymodeinequality.pdf)  
-  Supplement: [surveymethodinequalitysupplement.pdf](/home/files/papers/surveymethodinequalitysupplement.pdf)  
-    
-**Corrigendum: Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment**   
-  (joint with Stefan Hoderlein, Hajo Holzmann, and Alexander Meister),  
-  *The Review of Economic Studies, 2017*  
-  Manuscript: [commentcontinuousivfinal.pdf](/home/files/papers/commentcontinuousivfinal.pdf) 
-  
-**Normative individualism and research on inequality**  
-  *ITEMS, 2016*  
-  Manuscript: [http://items.ssrc.org/normative-individualism-and-research-on-inequality/](http://items.ssrc.org/normative-individualism-and-research-on-inequality/)
-  
-**Why Experimenters Might Not Always Want to Randomize, and What They Could Do Instead**  
-  *Political Analysis, 2016*  
-  Manuscript: [experimentaldesign.pdf](/home/files/papers/experimentaldesign.pdf)  
-  Supplement: [ExperimentalDesignPAOnlineAppendix.pdf](/home/files/papers/ExperimentalDesignPAOnlineAppendix.pdf)  
-  
-**Partial identification, distributional preferences, and the welfare ranking of policies**  
-  *Review of Economics and Statistics, 2016*  
-  Manuscript: [identificationpolicy.pdf](/home/files/papers/identificationpolicy.pdf)  
-  
-**Identification in a model of sorting with social externalities and the causes of urban segregation**  
-  *Journal of Urban Economics, 2015*  
-  Manuscript: [sortingpaper.pdf](/home/files/papers/sortingpaper.pdf)  
-  Supplement: [sortingsupplement.pdf](/home/files/papers/sortingsupplement.pdf) 
-  
-**Nonparametric inference on the number of equilibria**  
-  *The Econometrics Journal, 2015*   
-  Manuscript: [testingmultequ.pdf](/home/files/papers/testingmultequ.pdf)  
-  Supplement: [testingmulteqsupplement.pdf](/home/files/papers/testingmulteqsupplement.pdf) 
-  
-**Instrumental variables with unrestricted heterogeneity and continuous treatment**  
-  *Review of Economic Studies, 2014*  (see corrigendum above)  
-  Manuscript: [continuousiv.pdf](/home/files/papers/continuousiv.pdf)  
-  
-**The impact of changing family structures on the income distribution among Costa Rican women 1993-2009**  
-  (joint with Alvaro Ramos-Chaves)  
-  *Feminist Economics, 2014*  
-  Manuscript: [femdist.pdf](/home/files/papers/femdist.pdf)  
-  
-**A nonparametric test for path dependence in discrete panel data**  
-  *Economics Letters, 2011*   
-  Manuscript: [pathdependence.pdf](/home/files/papers/pathdependence.pdf) 
-  
-**Identification in Triangular Systems Using Control Functions**  
-  *Econometric Theory, 2011*   
-  Manuscript: [controlfunctions.pdf](/home/files/papers/controlfunctions.pdf)  
-  
-**Semiparametrically Efficient Estimation of Conditional Instrumental Variable Parameters**  
-  *International Journal of Biostatistics, 2009*   
-  Manuscript: [efficientconditionaliv.pdf](/home/files/papers/efficientconditionaliv.pdf)    
-
-
+## Individual Research
+  (Instructed by [Dan Li](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14142))  
+  Manuscript: [Learning to be Outside: How Setting Up Girls’ Schools in Late Qing and Minguo Affects Gender Norms and Labor Supply](/home/Learning_to_be_out/)  
 
  
  
