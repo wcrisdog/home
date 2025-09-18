@@ -42,5 +42,9 @@ permalink: /research/
   (Instructed by [Nancy Tsai](https://www.nancytsaiphd.com/))  
   Manuscript: [Individual Differences in Early Self-Regulatory Mechanisms](/home/files/papers/Education.pdf/)
 
+## Resources
+[Useful computational resources](/home computationlinks/)
+
+
  
  
