@@ -43,7 +43,7 @@ permalink: /research/
   Manuscript: [Individual Differences in Early Self-Regulatory Mechanisms](/home/files/papers/Education.pdf/)  
 
 ## Collection of resources  
-* Collection of links: [Useful computational resources](/home computationlinks/)
+* Collection of links: [Useful computational resources](/home/computationlinks/)
 
 
  
