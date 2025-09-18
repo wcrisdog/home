@@ -40,10 +40,10 @@ permalink: /research/
 
 **Individual Differences in Early Self-Regulatory Mechanisms: Bayesian Regularized Latent Class Analysis of Preschoolers' Learning Trajectories**  
   (Instructed by [Nancy Tsai](https://www.nancytsaiphd.com/))  
-  Manuscript: [Individual Differences in Early Self-Regulatory Mechanisms](/home/files/papers/Education.pdf/)
+  Manuscript: [Individual Differences in Early Self-Regulatory Mechanisms](/home/files/papers/Education.pdf/)  
 
-## Resources
-[Useful computational resources](/home computationlinks/)
+## Collection of resources  
+* Collection of links: [Useful computational resources](/home computationlinks/)
 
 
  
