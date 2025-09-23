@@ -11,9 +11,9 @@ permalink: /teaching/
   Instructed by [Qi Quan](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14284)  
 
 ## Fudan International Summer Session(FISS)  
-- TA for course **Banking and Financial Technology**  
+- TA for course **Banking and Financial Technology** (2024 Summer)  
   Instructed by [Felix Irresberger](https://sites.google.com/site/felixirresberger/)  
 
-- TA for course **International Finance**  
+- TA for course **International Finance** (2023 Summer)  
   Instructed by [Xiaoyan Fan](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14135)  
 
