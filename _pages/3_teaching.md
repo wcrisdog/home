@@ -4,6 +4,9 @@ permalink: /teaching/
 ---
 
 ## School of Economics, Fudan University  
+- TA for course **Linear Algebra** (freshman, 2026 spring)
+  Instructed by [Gaosheng Ju](https://jugaosheng.weebly.com/)
+
 - TA for course **Principles of Microeconomics** (freshman, 2025 fall)  
   Instructed by [Yu liu](https://sites.google.com/site/yuliu2014/home)  
 
