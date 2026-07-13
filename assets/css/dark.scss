@@ -1,0 +1,20 @@
+---
+# Dark build. Compiled to /assets/css/dark.css and swapped in at runtime by
+# the theme toggle (see _includes/head.html + _includes/masthead.html).
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/dark"; // theme's dark skin (sets dark palette)
+
+/* Override the dark skin's teal with a lightened cardinal so the accent stays
+   consistent with the light build while remaining legible on the dark bg. */
+$accent-dark: #e06c75;
+$primary-color: $accent-dark;
+$link-color: $accent-dark;
+$link-color-hover: mix(#fff, $accent-dark, 20%);
+$link-color-visited: mix(#000, $accent-dark, 15%);
+$masthead-link-color-hover: $accent-dark;
+
+@import "minimal-mistakes"; // main partials
+@import "custom"; // shared Minimal+ tweaks (adapts via theme variables)

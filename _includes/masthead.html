@@ -15,6 +15,10 @@
             </li>
           {% endfor %}
         </ul>
+        <button class="theme-toggle" type="button" title="Toggle dark mode" aria-label="Toggle dark mode">
+          <i class="fas fa-fw fa-moon theme-toggle__dark" aria-hidden="true"></i>
+          <i class="fas fa-fw fa-sun theme-toggle__light" aria-hidden="true"></i>
+        </button>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
@@ -31,3 +35,19 @@
     </div>
   </div>
 </div>
+
+<script>
+  // Theme toggle: flips the dark stylesheet's media, mirrors <html data-theme>,
+  // and persists the choice. Icon visibility is handled in CSS via data-theme.
+  (function () {
+    var btn = document.querySelector(".theme-toggle");
+    var link = document.getElementById("theme-dark-css");
+    if (!btn || !link) { return; }
+    btn.addEventListener("click", function () {
+      var dark = link.media !== "all";
+      link.media = dark ? "all" : "none";
+      document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+      try { localStorage.setItem("theme", dark ? "dark" : "light"); } catch (e) {}
+    });
+  })();
+</script>

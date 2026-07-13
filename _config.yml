@@ -59,8 +59,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -104,7 +104,7 @@ author:
   name             : "Vincent(Chengrui) Wang"
   avatar           : "/files/profilepic.JPG"
   bio              : "Predoctoral Researcher, Stanford University"
-  location         : "Shanghai, China"
+  location         : "Stanford, CA"
   email            : "vincentwcr041219@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -114,7 +114,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : wcrisdog
+  googlescholar    : https://scholar.google.com/citations?user=zV4sDpoAAAAJ&hl=zh-CN
+  orcid            : 0009-0006-3431-937X
   gitlab           :
   google_plus      :
   keybase          :
@@ -139,9 +141,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _pages/apps
-  - _pages/conference  
-  - _pages/teaching
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -275,12 +274,11 @@ defaults:
       comments: # true
       share: true
       related: true
-defaults:
-# _pages
-- scope:
-    path: ""
-    type: pages
-  values:
-    layout: single
-    author_profile: true
-  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+

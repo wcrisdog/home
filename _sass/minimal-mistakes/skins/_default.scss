@@ -1,5 +1,18 @@
 /* ==========================================================================
-   Default skin
-   ========================================================================== */
+   Default skin  — light "Minimal+" refinement
+   ==========================================================================
+   Variable overrides live here because this skin is imported BEFORE the main
+   theme partials (see assets/css/main.scss), so these win over the `!default`
+   declarations in _variables.scss. Swap $accent below to re-theme the site. */
 
-// Intentionally left blank
+/* Accent — Stanford cardinal. Change this one line to re-theme. */
+$accent: #8c1515 !default;
+
+$primary-color: $accent;
+$link-color: $accent;
+$link-color-hover: mix(#000, $accent, 20%);
+$link-color-visited: mix(#000, $accent, 10%);
+
+/* Keep the top nav calm/neutral; reveal the accent only on hover. */
+$masthead-link-color: #494e52;
+$masthead-link-color-hover: $accent;

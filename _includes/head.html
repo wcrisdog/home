@@ -16,6 +16,23 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
+<!-- Dark theme: downloaded but inert until activated (media swap avoids FOUC) -->
+<link id="theme-dark-css" rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}" media="none">
+<script>
+  // Decide the theme before first paint: stored choice wins, else OS preference.
+  (function () {
+    var stored = null;
+    try { stored = localStorage.getItem("theme"); } catch (e) {}
+    var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var dark = stored ? stored === "dark" : prefersDark;
+    if (dark) {
+      document.documentElement.setAttribute("data-theme", "dark");
+      var link = document.getElementById("theme-dark-css");
+      if (link) { link.media = "all"; }
+    }
+  })();
+</script>
+
 <!--[if lte IE 9]>
   <style>
     /* old IE unsupported flexbox fixes */

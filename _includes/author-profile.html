@@ -158,6 +158,22 @@
         </li>
       {% endif %}
 
+      {% if author.googlescholar %}
+        <li>
+          <a href="{{ author.googlescholar }}" itemprop="sameAs">
+            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.orcid %}
+        <li>
+          <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
